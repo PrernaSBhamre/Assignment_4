@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#E3D4E4</color> <!-- Dark Blue -->
+    <color name="button_color">#BCD2D5</color> <!-- Vibrant Red -->
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color><!-- White -->
+
+</resources>
